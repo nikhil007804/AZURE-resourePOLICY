@@ -1,14 +1,14 @@
 # Resource Group and Location
-resource_group_name = "idontknow"
+resource_group_name = "idontknowu"
 location           = "East US"
 
 # Storage Account Configuration
-storage_account_name      = "what"
+storage_account_name      = "whats"
 account_tier             = "Standard"
 account_replication_type = "LRS"
 
 # Container Configuration
-container_name        = "lifecycle-container"
+container_name        = "qwertyuiop"
 container_access_type = "private"
 
 # Lifecycle Policy Timings
