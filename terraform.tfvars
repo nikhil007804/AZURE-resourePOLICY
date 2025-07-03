@@ -1,9 +1,9 @@
 # Resource Group and Location
-resource_group_name = "anvarmaa"
+resource_group_name = "idontknow"
 location           = "East US"
 
 # Storage Account Configuration
-storage_account_name      = "anvarmaa"
+storage_account_name      = "what"
 account_tier             = "Standard"
 account_replication_type = "LRS"
 
