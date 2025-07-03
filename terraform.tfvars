@@ -3,7 +3,7 @@ resource_group_name = "elizbith-rg"
 location           = "East US"
 
 # Storage Account Configuration
-storage_account_name      = "elizbithhh"
+storage_account_name      = "anvarma"
 account_tier             = "Standard"
 account_replication_type = "LRS"
 
