@@ -1,9 +1,9 @@
 # Resource Group and Location
-resource_group_name = "elizbith-rg"
+resource_group_name = "anvarmaa"
 location           = "East US"
 
 # Storage Account Configuration
-storage_account_name      = "anvarma"
+storage_account_name      = "anvarmaa"
 account_tier             = "Standard"
 account_replication_type = "LRS"
 
